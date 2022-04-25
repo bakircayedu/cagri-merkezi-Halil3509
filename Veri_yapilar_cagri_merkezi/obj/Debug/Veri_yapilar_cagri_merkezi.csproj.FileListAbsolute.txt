@@ -1,0 +1,22 @@
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\bin\Debug\Veri_yapilar_cagri_merkezi.exe.config
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\bin\Debug\Veri_yapilar_cagri_merkezi.exe
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\bin\Debug\Veri_yapilar_cagri_merkezi.pdb
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.csproj.AssemblyReference.cache
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.Form1.resources
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.Form2.resources
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.Properties.Resources.resources
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.csproj.GenerateResource.cache
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.csproj.CoreCompileInputs.cache
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.exe
+C:\Users\Halil\Desktop\Dersler 201\Veri yapıları\Veri_yapilar_cagri_merkezi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.pdb
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\bin\Debug\Veri_yapilar_cagri_merkezi.exe.config
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\bin\Debug\Veri_yapilar_cagri_merkezi.exe
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\bin\Debug\Veri_yapilar_cagri_merkezi.pdb
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.csproj.AssemblyReference.cache
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.Form1.resources
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.Form2.resources
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.Properties.Resources.resources
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.csproj.GenerateResource.cache
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.csproj.CoreCompileInputs.cache
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.exe
+C:\Users\Halil\Desktop\Cagri_merkezi_ugulamasi\Veri_yapilar_cagri_merkezi\obj\Debug\Veri_yapilar_cagri_merkezi.pdb

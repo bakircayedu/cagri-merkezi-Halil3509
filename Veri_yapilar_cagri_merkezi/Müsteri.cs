@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Veri_yapilar_cagri_merkezi
+{
+    public class Müsteri
+    {
+        public int tanimlayici { get; set; }
+        public String tur { get; set; }
+    }
+}
